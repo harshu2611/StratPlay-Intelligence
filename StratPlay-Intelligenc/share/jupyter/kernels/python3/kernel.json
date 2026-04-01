@@ -1,0 +1,15 @@
+{
+  "argv": [
+    "c:/Users/Harsh Kushwaha/miniconda3/envs/StratPlay-Intelligenc/python.exe",
+    "-m",
+    "ipykernel_launcher",
+    "-f",
+    "{connection_file}"
+  ],
+  "display_name": "Python 3 (ipykernel)",
+  "language": "python",
+  "metadata": {
+    "debugger": true
+  },
+  "kernel_protocol_version": "5.5"
+}

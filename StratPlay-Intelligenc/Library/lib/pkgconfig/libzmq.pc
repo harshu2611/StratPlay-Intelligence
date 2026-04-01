@@ -1,0 +1,12 @@
+prefix=c:/Users/Harsh Kushwaha/miniconda3/envs/StratPlay-Intelligenc/Library
+exec_prefix=c:/Users/Harsh Kushwaha/miniconda3/envs/StratPlay-Intelligenc/Library
+libdir=c:/Users/Harsh Kushwaha/miniconda3/envs/StratPlay-Intelligenc/Library/lib
+includedir=c:/Users/Harsh Kushwaha/miniconda3/envs/StratPlay-Intelligenc/Library/include
+
+Name: libzmq
+Description: 0MQ c++ library
+Version: 4.3.5
+Libs: -L${libdir} -lzmq
+Libs.private: 
+Requires.private: 
+Cflags: -I${includedir} 
